@@ -1,6 +1,6 @@
-//학번:
-//이름:
-//github id:
+//학번: 201824439
+//이름: 김성현 
+//github id: SeonghyeonKim
 #include "teststudent.h"
 #include "buffile.h"
 #include "length.h"
